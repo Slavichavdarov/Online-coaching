@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Онлайн Коучинг с Слави Чавдаров</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; color: #333; }
+    header { background: #111; color: white; padding: 60px 20px; text-align: center; }
+    header h1 { font-size: 36px; margin-bottom: 10px; }
+    header p { font-size: 20px; }
+    .section { padding: 40px 20px; max-width: 900px; margin: auto; }
+    .section h2 { font-size: 28px; margin-bottom: 20px; }
+    .services ul { list-style: none; padding: 0; }
+    .services li { margin-bottom: 10px; padding-left: 20px; position: relative; }
+    .services li::before { content: "\2714"; position: absolute; left: 0; color: green; }
+    .cta { text-align: center; margin: 40px 0; }
+    .cta a { background: #ff4d4d; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; }
+    .results img { width: 100%; max-width: 400px; margin: 10px auto; display: block; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+    footer { background: #111; color: white; text-align: center; padding: 20px; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Трансформирай тялото си с онлайн коучинг</h1>
+    <p>Персонални програми, хранене и подкрепа за жени, готови да променят живота си</p>
+  </header>
+
+  <section class="section about">
+    <h2>Кой съм аз?</h2>
+    <p>Казвам се Слави Чавдаров и спортът е неразделна част от живота ми вече повече от десетилетие. Пътят ми във фитнеса започна като лично търсене на по-добра форма и здраве, което прерасна в истинска страст и отдаденост. С постоянство и упоритост успях да постигна значителна лична трансформация (както виждате на снимките), която ме вдъхнови да се посветя и професионално на тази сфера.</p>
+    <img src="/mnt/data/1000147445.jpg" alt="Трансформация на Слави Чавдаров">
+    <p>Днес, като сертифициран персонален и фитнес треньор с диплома и редица специализирани курсове (включително EMS тренировки, анатомия, физиология и кинезиология от НАСМ, ТБАТА и HIIT тренировки, както и специализация по диети и хранителни режими от Emory University), аз използвам натрупаните знания и личен опит, за да помагам на други хора да постигат своите цели.</p>
+    <p>През последните две години бях отличен като "Най-добър треньор", което е признание за реалните резултати на моите клиенти – устойчива загуба на тегло, подобрено здраве и най-важното, възвръщане на тяхното самочувствие и увереност. Вярвам, че с правилния подход и постоянство всеки може да постигне желаната форма и да се почувства по-добре в тялото си. Моята цел е да бъда не просто треньор, а мотиватор и наставник по пътя към една по-здрава и щастлива версия на самите себе си.</p>
+  </section>
+
+  <section class="section services">
+    <h2>Какво включва коучингът?</h2>
+    <ul>
+      <li>Индивидуален хранителен режим</li>
+      <li>Тренировъчна програма за фитнес или у дома</li>
+      <li>Седмичен check-in с обратна връзка</li>
+      <li>Постоянна поддръжка през чат или имейл</li>
+    </ul>
+  </section>
+
+  <section class="section results">
+    <h2>Резултати на клиенти</h2>
+    <img src="/mnt/data/Picsart_25-02-19_10-35-55-712.jpg" alt="Клиент трансформация 1">
+    <img src="/mnt/data/Screenshot_20240501_195711_Microsoft 365 (Office).jpg" alt="Клиент трансформация 2">
+  </section>
+
+  <section class="section cta">
+    <h2>Готова ли си да започнеш?</h2>
+    <a href="https://instagram.com/твоятпрофил" target="_blank">Свържи се с мен в Instagram</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Слави Чавдаров | Онлайн Коучинг</p>
+  </footer>
+</body>
+</html>
